@@ -42,6 +42,6 @@ elif choice == "d" or choice == "D":
     a = int(input("input first number"))
     b = int(input("input second number"))
     divide( a, b)
-elif choice == "a" or choice == "A":
+elif choice == "e" or choice == "E":
     print("Program ended")
     quit()
