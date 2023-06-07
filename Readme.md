@@ -3,4 +3,4 @@
 Used the inbuilt SSL and SMTP modules in python to send emails to a Temporary Email Address (TempMail)
 
 ## Word Replacement Program
-this is a siple program that makes use of the Replace() methord in pyhton to replace the selected words
+This is a simple program that makes use of the Replace() methord in pyhton to replace the selected words
