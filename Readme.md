@@ -7,3 +7,6 @@ This is a simple program that makes use of the Replace() methord in pyhton to re
 
 ## Basic Calculator 
 This program uses the basics of function defination and loops to create a simple calculator
+
+## Email Slicer
+The project uses the split() methord to disect an email into various parts 
