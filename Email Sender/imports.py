@@ -1,1 +1,1 @@
-password = 'sefiklyxydtgnxvs'
+password = 'Insert your app Key'
