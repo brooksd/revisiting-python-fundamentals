@@ -13,3 +13,5 @@ The project uses the split() methord to disect an email into various parts
 
 ## Project 5: Binary Search Algorithm
 Loops through a list and split it till it gets to the target value 
+
+## Project 6: Quiz Program
