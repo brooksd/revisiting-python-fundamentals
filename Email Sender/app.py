@@ -6,7 +6,8 @@ import smtplib
 email_sender =  'vjameson644@gmail.com'
 email_password = password
 
-email_reciever = ''
+"TempMail for Testing"
+email_reciever = 'hodayoh807@soremap.com'
 
 subject = "Dont forget to Finish GCP DevOps"
 body = """A journey of  a thousand miles begins with just one step"""
