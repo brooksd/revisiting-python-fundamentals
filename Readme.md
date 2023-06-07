@@ -4,3 +4,6 @@ Used the inbuilt SSL and SMTP modules in python to send emails to a Temporary Em
 
 ## Word Replacement Program
 This is a simple program that makes use of the Replace() methord in pyhton to replace the selected words
+
+## Basic Calculator 
+This program uses the basics of function defination and loops to create a simple calculator
