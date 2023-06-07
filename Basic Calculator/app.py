@@ -1,18 +1,18 @@
 def add(a, b):
     answer = a + b
-    print(str(a) + " + " + str(b) + " = " + str(answer))
+    print(str(a) + " + " + str(b) + " = " + str(answer) + "\n")
     
 def sub(a, b):
     answer = a - b
-    print(str(a) + " - " + str(b) + " = " + str(answer))
+    print(str(a) + " - " + str(b) + " = " + str(answer) + "\n")
     
 def multiply(a, b):
     answer = a * b
-    print(str(a) + " * " + str(b) + " = " + str(answer))
+    print(str(a) + " * " + str(b) + " = " + str(answer) + "\n")
     
 def divide(a, b):
     answer = a / b
-    print(str(a) + " / " + str(b) + " = " + str(answer))
+    print(str(a) + " / " + str(b) + " = " + str(answer) + "\n")
 
 
 while True:    
