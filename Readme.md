@@ -16,3 +16,6 @@ Loops through a list and split it till it gets to the target value
 
 ## Project 6: Quiz Program
 Serves up Questions for the user to select and validates whether it evaluates to true or not 
+
+## Project 7: Slot Machine
+Project allow user to participate in gambling activities by depositing money and staking on various chances
